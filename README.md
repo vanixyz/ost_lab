@@ -1,4 +1,4 @@
-#This is my Readme file for ost and and i will be working here on it
+#This is the readme file and bob will work on it
 
 //CALORIE ESTIMATION & RECOGNITION HEALTH TRACKING WEBAPP
 
