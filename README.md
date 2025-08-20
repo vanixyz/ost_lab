@@ -1,4 +1,7 @@
+
 #This is  Alice and i changed the readme me 
+
+#This is the readme file and bob will work on it
 
 //CALORIE ESTIMATION & RECOGNITION HEALTH TRACKING WEBAPP
 
