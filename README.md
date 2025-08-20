@@ -1,4 +1,4 @@
-#This is my Readme file for ost and and i will be working here on it
+#This is  Alice and i changed the readme me 
 
 //CALORIE ESTIMATION & RECOGNITION HEALTH TRACKING WEBAPP
 
